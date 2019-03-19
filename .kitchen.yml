@@ -24,6 +24,8 @@ platforms:
     box_url: https://opscode-vm.s3.amazonaws.com/vagrant/opscode_centos-5.9_provisionerless.box
 - name: centos-7.1
 
+- name: centos-7.6
+
 suites:
 - name: default
   run_list: ["recipe[packer]"]

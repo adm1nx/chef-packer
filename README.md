@@ -44,6 +44,7 @@ to verify integrity.
 
 # Author
 
+Chris Nowicki (<chris.nowicki@gmail.com>) http://github.com/adm1nx
 Emil Sit (<sit@hadapt.com>) http://github.com/sit
 Alex Romanov (<alex@strataconsulting.com>) http://github.com/netflash
 
